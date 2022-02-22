@@ -1,5 +1,7 @@
 # Opensea
 
+****![](<.gitbook/assets/image (7).png>)****
+
 **What is OpenSea?**
 
 &#x20;OpenSea is one of the most popular peer-to-peer NFT marketplaces to buy, sell, and create NFTs on web3. Founded in 2017, OpenSea has earned their spot as the busiest NFT marketplace with a trading volume over $6.5 billion.
@@ -14,7 +16,7 @@ Unlike some of the other NFT marketplaces, OpenSea does not focus on one specifi
 
 ![](<.gitbook/assets/image (22).png>)
 
-![](<.gitbook/assets/image (20).png>)
+![](<.gitbook/assets/image (20) (1).png>)
 
 Once your wallet is connected to OpenSea, you can go to your Profile and update your information in Settings, such as Username, Bio, Email Address, Social Links, and Images. From there, you are all set to go. Generally, after you have set up your OpenSea account you will login by digitally signing, using your wallet.
 
@@ -24,7 +26,7 @@ Once your wallet is connected to OpenSea, you can go to your Profile and update 
 
 Selling your NFT should not be a difficult task. That’s why the OpenSea team made their process of selling NFTs very user-friendly. So, how do you sell an NFT on OpenSea? To sell an NFT on OpenSea go to Menu, then select Account, and finally go to your Profile where you can choose which of your NFTs you want to sell. Choose your NFT and then tap Sell. This will give you the ability to set the price of your NFT and schedule your listing.
 
-![](<.gitbook/assets/image (10).png>)
+![](<.gitbook/assets/image (10) (1).png>)
 
 When you go to sell an NFT on OpenSea, you may notice that there are four different types of listing options available for you to choose from:
 

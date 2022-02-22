@@ -1,5 +1,7 @@
 # Contract Minting
 
+![](<.gitbook/assets/image (10).png>)
+
 Minting an NFT is the action of creating your unique token on the blockchain. Even when you’re minting your NFT from a new project’s website, you’re interacting with the underlying smart contract to mint your unique NFT.
 
 But when the website gets bogged down with traffic on a hyped drop and isn’t working, how do you mint an NFT from the smart contract on Etherscan?
@@ -20,7 +22,7 @@ Most projects have them listed on their website or in their Discord. If a projec
 
 If you only have the contract address and not the link to Etherescan, go to Etherscan.io and search by the contract address.
 
-![](<.gitbook/assets/image (7).png>)
+![](<.gitbook/assets/image (7) (1).png>)
 
 
 

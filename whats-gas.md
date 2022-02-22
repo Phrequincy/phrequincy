@@ -1,5 +1,7 @@
 # Whats GAS?
 
+****![](<.gitbook/assets/image (20).png>)****
+
 **What is ETH Gas?**
 
 &#x20;Gwei is a unit of gas that is used in the Ethereum network. Gas is used by miners to process transactions and it is one of the key differences between Ethereum and other cryptocurrencies like Bitcoin.
