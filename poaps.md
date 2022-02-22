@@ -1,8 +1,3 @@
----
-cover: .gitbook/assets/71664718.png
-coverY: 0
----
-
 # POAPs
 
 **What is POAP?**&#x20;
